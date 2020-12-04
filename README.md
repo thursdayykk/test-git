@@ -8,3 +8,5 @@
 
 3. 提取部分提交内容
 > git cherry-pick head1^...head2
+
+4. 在t1上修改的内容
